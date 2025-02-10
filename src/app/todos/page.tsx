@@ -22,7 +22,8 @@ export default function TodoList() {
     "Personal",
     "Shopping",
     "Health",
-    "Education"
+    "Education",
+    "Finance"
   ];
 
   const onSubmit = (data: TodoFormInputs) => {
